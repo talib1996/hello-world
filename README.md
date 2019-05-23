@@ -9,7 +9,7 @@
 
 install it by typing 
 
-sudo apt-get install
+sudo apt-get install g++
 
 3)go the directory where you have downloaded the .cpp file
 
